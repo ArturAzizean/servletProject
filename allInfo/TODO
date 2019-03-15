@@ -1,0 +1,21 @@
+sandbox.bnpware.com
+
+What I want to test does registration work, does the logo display correctly, transactions successful , transactions fail , does refund work. 
+
+chart show correct details
+
+what are the failure reports
+
+currency displayed ?
+
+badcard reports ie. transactions 1000 & < 3000
+
+amounts 3000 will respond the a problem error
+
+what will happen if the gateway is unavialable?
+
+3D secure failue ?
+
+----------------------------------------------------------------
+For java advance:
+- Maven -Hibernete -Spring 

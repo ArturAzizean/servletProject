@@ -1,0 +1,74 @@
+
+
+
+-----------------------------------проваленные -------DEV:
+
+artur-1-autotest-linode.com
+magento 2.. completed. Но айпи не работает . статус панель не работает . 
+linode
+
+art-dev.do.com  DO
+mautic-formula  на паузе
+
+art996y.vultr.com
+mautic-formula
+
+artur-0-autotest-linode.com
+mautic-formula
+
+artur-7-autotest-linode.com
+pimcore дошел до 58 и после лимит ожидания превышен
+на почту сообщение не приходило .
+
+
+-----------------------------------completed -----DEV
+
+art996y-mauticformula-linode.com (update)
+mautic-formula 
+
+1) artur-2-autotest-linode.com
+odoo-formula 
+
+2) artur-3-autotest-linode.com
+mautic
+
+3) artur-4-autotest-linode.com
+orocrm 
+
+4) artur-5-autotest-linode.com
+orocommerce-d
+
+5) artur-6-autotest-linode.com
+akeneo 
+
+6) artur-8-autotest-linode.com
+suitecrm
+
+7) art996yand-portain-linode.com
+portainer 
+
+8) art996yand-wagtail-linode.com
+wagtail 
+
+9) artur-9-autotest-linode.com
+odoo 10.0
+
+10) artdev-pimcore-linode.com
+pimcore   на  artur optimum (перый раз провал , второй раз за 15 мин инстл.)
+
+11) art996yand-taiga-linode.com
+taiga 
+
+12) artur-10-autotest-linode.com
+odoo11 
+
+13) artur-11-autotest-linode.com
+opencart
+
+14) artur-12-autotest-linode.com
+modx
+
+15) artur-13-autotest-linode.com
+minecraft
+
+
