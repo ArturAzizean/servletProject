@@ -87,7 +87,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/servletsWithDB/UsersServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="551">
               <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="87">
               <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
             </state>
           </provider>
@@ -108,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="609">
               <caret line="21" column="38" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
@@ -132,6 +132,9 @@
       <find>StandardContext</find>
       <find>name</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -197,7 +200,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="164" />
     <option name="y" value="106" />
     <option name="width" value="1359" />
@@ -276,21 +279,6 @@
             <path>
               <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="3930543d-373e-4a2b-bf6c-4482bccf5136" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
             </path>
           </expand>
           <select />
@@ -447,9 +435,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="134" y="35" width="3706" height="2125" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49784482" visible="true" weight="0.28334257" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49784482" visible="true" weight="0.28662243" />
       <window_info id="Structure" order="1" sideWeight="0.5016779" side_tool="true" weight="0.26342005" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -464,7 +452,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22646584" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
@@ -490,53 +478,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/classes/Max.java" />
-    <entry file="uml://JAVA/repositories.UserRepositoryInMemory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>repositories.UserRepositoryInMemory</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="673.0" y="277.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/servlets.SignUpServlet">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>servlets.SignUpServlet</OriginalElement>
-          <nodes>
-            <node x="" y="">servlets.SignUpServlet</node>
-            <node x="" y="">repositories.UserRepositoryInMemory</node>
-            <node x="" y="">repositories.UserRepository</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.2999999999999998" x="151.0" y="31.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/ServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="uml://JAVA/repositories.UserRepositoryInMemory" />
+    <entry file="uml://JAVA/servlets.SignUpServlet" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/ServletRequest.class" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/signUp1.jsp" />
-    <entry file="file://$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.pom" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -570,13 +516,7 @@
     <entry file="file://$PROJECT_DIR$/servletsexample.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/signUp_old.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -623,17 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/Cookie.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="e#2736#2737#0" expanded="true" />
-            <element signature="e#2769#2770#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/Cookie.class" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -675,27 +605,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/role/art">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/role/root">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/role/postgres">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/182611de-e2a2-4c7d-b6b2-5fe930cdc544/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/role/art" />
+    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/role/root" />
+    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/role/postgres" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/182611de-e2a2-4c7d-b6b2-5fe930cdc544/console.sql" />
     <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/postgres/schema/information_schema/table/sql_sizing" />
     <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/postgres/schema/information_schema/table/sql_features" />
-    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/user_example/index/user_example_pkey">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/user_example/index/user_example_pkey" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -713,13 +629,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/user_example">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/user_example" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/signUp.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -745,16 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3930543d-373e-4a2b-bf6c-4482bccf5136/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3930543d-373e-4a2b-bf6c-4482bccf5136/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/main/java/servletsWithDB/UsersServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="551">
           <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -764,14 +668,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="87">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="609">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
