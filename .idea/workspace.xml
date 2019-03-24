@@ -7,43 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fd95db-fc34-49dc-981b-1ea6e1bc910c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/dao/CrudDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/dao/UsersDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/dao/UsersDaoJdbcTemplateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/dao/UsersDaoJdbsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/modelsDB/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/servletsDB/UserWithCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/withDB/servletsDB/UsersServletWithDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/User.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp1/car.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp1/users.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/art.Y3oBAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/art.Y3oBAA/schema/public.abK9xQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/exampledb.aGsm_A/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/exampledb.aGsm_A/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_temp_1.zkWuFg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_toast.33HYYw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_toast_temp_1.5ixBaA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/spring.DQKdyg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3930543d-373e-4a2b-bf6c-4482bccf5136/storage_v2/_src_/database/spring.DQKdyg/schema/public.abK9xQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servletsWithDB/UsersServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/withDB/servletsDB/UsersServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/servletsexample.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servletsWithDB/UsersServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/servlets-example-0.1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/servlets-example-0.1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/servlets-example-0.1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/servlets-example-0.1/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/servlets-example-0.1/WEB-INF/classes/servletsWithDB/UsersServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/withDB/dao/UsersDaoJdbcTemplateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/withDB/dao/UsersDaoJdbcTemplateImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/withDB/modelsDB/UserDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/withDB/modelsDB/UserDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/servlets-example-0.1/WEB-INF/classes/withDB/dao/UsersDaoJdbcTemplateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/servlets-example-0.1/WEB-INF/classes/withDB/dao/UsersDaoJdbcTemplateImpl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,15 +76,6 @@
         <item name="exampledb: database" type="162271b6:PgImplModel$Database" />
         <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
         <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="fix_car: table" type="69fad909:PgImplModel$LocalTable" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="exampledb@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="exampledb: database" type="162271b6:PgImplModel$Database" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="fix_user: table" type="69fad909:PgImplModel$LocalTable" />
       </path>
     </expand>
@@ -121,31 +86,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/withDB/modelsDB/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/withDB/servletsDB/UsersServletWithDao.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="858">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/User.hbm.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+              <folding>
+                <element signature="e#1274#1275#0" expanded="true" />
+                <element signature="e#1306#1307#0" expanded="true" />
+                <element signature="e#1352#1353#0" expanded="true" />
+                <element signature="e#1417#1418#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -214,15 +185,16 @@
         <option value="$PROJECT_DIR$/src/main/java/withDB/servletsDB/UsersServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/withDB/dao/UsersDaoJdbsImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/jsp1/users.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$PROJECT_DIR$/src/main/java/withDB/servletsDB/UsersServletWithDao.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/hibernate/Application.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/jsp1/car.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/withDB/servletsDB/UserWithCar.java" />
         <option value="$PROJECT_DIR$/src/main/java/withDB/modelsDB/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/withDB/dao/UsersDaoJdbcTemplateImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/User.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernate/Application.java" />
       </list>
     </option>
   </component>
@@ -257,10 +229,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="229" />
-    <option name="y" value="727" />
-    <option name="width" value="3314" />
-    <option name="height" value="1901" />
+    <option name="x" value="134" />
+    <option name="y" value="7" />
+    <option name="width" value="1786" />
+    <option name="height" value="1073" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -269,7 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,14 +272,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="servletsexample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hibernate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -317,7 +280,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servlets" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
@@ -326,15 +289,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="withDB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="servletsexample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="withDB" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
@@ -344,15 +298,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="withDB" type="462c0819:PsiDirectoryNode" />
               <item name="modelsDB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="servletsexample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="withDB" type="462c0819:PsiDirectoryNode" />
-              <item name="servletsDB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
@@ -378,44 +323,6 @@
             </path>
             <path>
               <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="servletsexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -433,6 +340,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -440,7 +348,7 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553245825926" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553453816662" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/target/servlets-example-0.1.war" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -478,7 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 2">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hibernate.Application" />
       <module name="servlets-example" />
@@ -606,12 +514,17 @@
       <workItem from="1553144341850" duration="23595000" />
       <workItem from="1553232684307" duration="8514000" />
       <workItem from="1553246146028" duration="9000" />
-      <workItem from="1553246302387" duration="5074000" />
+      <workItem from="1553246302387" duration="5746000" />
+      <workItem from="1553275232014" duration="3433000" />
+      <workItem from="1553282962999" duration="16000" />
+      <workItem from="1553283038293" duration="33000" />
+      <workItem from="1553406081404" duration="2401000" />
+      <workItem from="1553452924780" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132924000" />
+    <option name="totallyTimeSpent" value="140229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,8 +537,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49473685" visible="true" weight="0.19292426" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49473685" visible="true" weight="0.26699835" />
       <window_info id="Structure" order="1" sideWeight="0.5016779" side_tool="true" weight="0.26342005" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -635,12 +549,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32920924" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2366864" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40021518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30607852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997236" weight="0.32920924" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2049489" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.147929" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002764" side_tool="true" weight="0.32920924" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32974717" />
@@ -658,7 +572,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32982844" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.14262024" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.14262024" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -674,14 +588,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/fix_user" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -701,9 +607,6 @@
           <caret line="818" selection-start-line="818" selection-end-line="818" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/User.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/fix_car/index/fix_car_pkey">
       <provider selected="true" editor-type-id="text-editor">
@@ -743,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/withDB/modelsDB/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.201-oracle/src.zip!/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
@@ -781,16 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="737">
           <caret line="40" column="69" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlets/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -847,11 +726,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/withDB/servletsDB/UsersServletWithDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="165">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/withDB/modelsDB/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3930543d-373e-4a2b-bf6c-4482bccf5136/database/exampledb/schema/public/table/fix_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/withDB/modelsDB/UserDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+          <folding>
+            <element signature="e#1274#1275#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/User.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
         </state>
       </provider>
     </entry>
